@@ -6,7 +6,7 @@ Installation instructions are found here: [https://dnoneill.github.io/annotate/h
 
 1. Install Dependencies
 - [Vagrant](https://www.vagrantup.com/downloads.html)
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- [VirtualBox 6.0.x](https://www.virtualbox.org/wiki/Downloads). Note: VirtualBox 6.1.x currently does not work with Vagrant. Make sure to use 6.0.x or older. 
 - [Git](https://git-scm.com/downloads)
 
 2. (Optional). Fork repository and create own website. See [GitHub pages instructions](https://dnoneill.github.io/annotate/help/creating-github/) for steps. Otherwise use `https://github.com/dnoneill/annotate.git` for step 3.
