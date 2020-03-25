@@ -25,7 +25,7 @@ See [{{site.url}}{{site.baseurl}}/wikipedia]({{site.baseurl}}/wikipedia) for Inf
 
 # ContentDM images
 
-Search any image in ContentDM. [https://researchworks.oclc.org/iiif-explorer/search?q=](https://researchworks.oclc.org/iiif-explorer/search?q=)
+Search any image in ContentDM. [https://researchworks.oclc.org/iiif-explorer/](https://researchworks.oclc.org/iiif-explorer/)
 
 # Other repositories
 
