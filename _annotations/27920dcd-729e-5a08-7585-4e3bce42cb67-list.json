@@ -1,0 +1,4 @@
+---
+layout: null
+---
+{"created": "2020-05-11T17:16:42.279Z", "id": "https://dnoneill.github.io/annotate/annotations/33508864-93ab-11ea-83ad-de95c1897778.json-list.json", "@context": "http://www.w3.org/ns/anno.jsonld", "@type": "AnnotationPage", "resources": [{"created": "2020-05-11T17:16:42.279Z", "@context": "http://www.w3.org/ns/anno.jsonld", "target": {"id": "https://www.artic.edu/iiif/2/27920dcd-729e-5a08-7585-4e3bce42cb67#xywh=4,1,1998,2996", "type": "Image"}, "@id": "https://dnoneill.github.io/annotate/annotations/33508864-93ab-11ea-83ad-de95c1897778.json", "body": [{"selector": {"type": "FragmentSelector", "value": "rect"}, "value": "", "format": "text/html", "type": "TextualBody"}], "creator": ["https://www.artic.edu/iiif/2/27920dcd-729e-5a08-7585-4e3bce42cb67/full/full/0/default.jpg"], "type": "Annotation"}]}
