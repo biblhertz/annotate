@@ -1,0 +1,10 @@
+---
+datecreated: '2020-08-02T16:25:46.748Z'
+datemodified: ''
+imagescr: <iiif-annotation annotationurl="https://dnoneill.github.io/annotate/annotations/d1fd19ce-d4dc-11ea-b634-bada2f40b201.json"
+  styling="image_only:true"></iiif-annotation>
+layout: searchview
+listname: 016-r714-f006vjp2-f006v-list.json
+tags: []
+---
+le Roi
