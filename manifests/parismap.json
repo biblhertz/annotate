@@ -157,9 +157,9 @@
               "@id": "https://cdm16062.contentdm.oclc.org/digital/iiif/p16062coll11/390/annotation/a0",
               "@type": "oa:Annotation",
               "motivation": "sc:painting",
-              "on": "https://cdm16062.contentdm.oclc.org/digital/iiif/p16062coll11/390/canvas/c0#xywh=74,74,9025,7000",
+              "on": "https://cdm16062.contentdm.oclc.org/digital/iiif/p16062coll11/390/canvas/c0",
               "resource": {
-                "@id": "https://cdm16062.contentdm.oclc.org/digital/iiif/p16062coll11/390/full/full/0/default.jpg",
+                "@id": "https://cdm16062.contentdm.oclc.org/digital/iiif/p16062coll11/390/full/full/0/default.jpg#xywh=74,74,9025,7000",
 				"label": "Plan Commode de Paris [France] 1900-1920 from North Carolina Digital Collections",
                 "@type": "dctypes:Image",
                 "format": "image/jpeg",
