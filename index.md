@@ -4,7 +4,7 @@ title: Create Annotations
 weight: 1
 ---
 
-**This application will no longer be supported starting 2/23/20. https://annonatate.herokuapp.com has been built to replace it and is now running.**
+**This application will no longer be supported starting 2/23/20. [https://annonatate.herokuapp.com](https://annonatate.herokuapp.com) has been built to replace it and is now running.**
 
 Annotations can be viewed and created by toggling the <i class="fa fa-comments" aria-hidden="true"></i> button on the top left of the viewer.
 
