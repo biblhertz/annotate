@@ -37,8 +37,8 @@ webrick:
   headers:
     "Access-Control-Allow-Origin": "*"
 
-api_server: https://limitless-plains-74009.herokuapp.com/
-endpoint: https://limitless-plains-74009.herokuapp.com/write_annotation/
+#api_server: 
+#endpoint: 
 
 exclude:
   - ENV/
