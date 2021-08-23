@@ -38,13 +38,13 @@ Navigate to [http://localhost:5555/annotate/](http://localhost:5555/annotate/) t
 ### Requirements for Development
 - Ruby >=2.2
 - Jekyll >=3.5
-- Bundler >=1.12
-- Python
+- Bundler >=2
+- Python (with pip and venv)
 
 ### Development
 - Clone this repository and navigate into it:
 
-  `$ git clone https://github.com/dnoneill/annotate.git && cd annotate`
+  `$ git clone https://github.com/bibhertz/annotate.git && cd annotate`
 - Install dependencies:
 
   `$ bundle install`
