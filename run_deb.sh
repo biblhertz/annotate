@@ -9,7 +9,7 @@ python3 -m venv ENV
 #python pyvenv ENV
 echo source ENV/bin/activate
 cd _site/assets/python
-python3 -m pip install --user Flask
+python3 -m pip install --user -r requirements.txt
 export FLASK_APP=flaskserver.py
 python -m flask run --host=0.0.0.0 --port=5000
 pkill -f jekyll
