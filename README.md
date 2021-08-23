@@ -44,7 +44,7 @@ Navigate to [http://localhost:5555/annotate/](http://localhost:5555/annotate/) t
 ### Development
 - Clone this repository and navigate into it:
 
-  `$ git clone https://github.com/bibhertz/annotate.git && cd annotate`
+  `$ git clone https://github.com/biblhertz/annotate.git && cd annotate`
 - Install dependencies:
 
   `$ bundle install`
