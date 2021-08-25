@@ -37,9 +37,9 @@ Navigate to [http://localhost:5555/annotate/](http://localhost:5555/annotate/) t
 
 ### Requirements for Development
 - Ruby >=2.2
-- Jekyll >=3.5
-- Bundler >=2
-- Python (with pip and venv)
+- Jekyll =3.8
+- Bundler >=1.12
+- Python3 (with pip and venv)
 
 ### Development
 - Clone this repository and navigate into it:
@@ -51,3 +51,6 @@ Navigate to [http://localhost:5555/annotate/](http://localhost:5555/annotate/) t
 - Create ENV, install Flask in ENV, start Flask and Jekyll
 
   `$ ./run.sh`
+- In Debian you may need to use python3
+
+  `$ ./run_deb.sh` 
