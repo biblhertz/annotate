@@ -54,4 +54,5 @@ Navigate to [http://localhost:5555/annotate/](http://localhost:5555/annotate/) t
 - In Debian you may need to use python3
 
   `$ chmod +x run_deb.sh`
+  
   `$ ./run_deb.sh` 
