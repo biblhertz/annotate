@@ -11,6 +11,5 @@ echo source ENV/bin/activate
 cd _site/assets/python
 python3 -m pip install --user -r requirements.txt
 export FLASK_APP=flaskserver.py
-python -m flask run --host=0.0.0.0 --port=5000
+python3 -m flask run --host=0.0.0.0 --port=5000
 pkill -f jekyll
-© 2021 GitHub, Inc.
