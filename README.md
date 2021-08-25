@@ -48,6 +48,9 @@ Navigate to [http://localhost:5555/annotate/](http://localhost:5555/annotate/) t
 - Install dependencies:
 
   `$ bundle install`
+- If it complains about Bundle 2.0 in Gemfile.lock, remove .lock file and repet :
+
+  `$ rm Gemfile.lock`
 - Create ENV, install Flask in ENV, start Flask and Jekyll
 
   `$ ./run.sh`
