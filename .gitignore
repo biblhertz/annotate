@@ -4,3 +4,4 @@ _site
 ENV/
 _data/custom
 _ansible/imported_roles/
+Gemfile.lock
